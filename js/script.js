@@ -1,4 +1,8 @@
 
+setTimeout(function() {
+	location.href = 'rocket.html';
+}, 2000);
+
 //hey this is comment
 /*
 This is multiline 
